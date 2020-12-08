@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <!--The resource of the background color -->
+            <!-- rotate 90 angle-->
+            <gradient
+                android:startColor="@color/mediumLightBlue"
+                android:endColor="@color/darkBlue"
+                android:angle="90"
+                />
+        </shape>
+    </item>
+
+</selector>

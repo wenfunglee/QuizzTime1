@@ -1,0 +1,17 @@
+<resources>
+    // App Name
+    <string name="app_name">QuizTime</string>
+
+    // All Variable Name
+    <string name="begin">Begin</string>
+    <string name="titleName">Quizz Time</string>
+    <string name="welcome1">Start QUIZZ AS STUDENT NOW !!! </string>
+    <string name="welcome2">Welcome to Quizz Time</string>
+    <string name="quizCategory">Quiz Category</string>
+    <string name="setQuestion">Set Question</string>
+    <string name="scoreCongrats">Congratulation !!!</string>
+    <string name="showScore"> Total Score </string>
+    <string name="scorebtnDone">Done</string>
+
+
+</resources>
